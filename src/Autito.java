@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Autito extends PasajerosVehiculo {
     
     private String tipoCombustible;

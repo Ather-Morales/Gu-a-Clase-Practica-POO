@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Camion extends VehiculoCarga{
 
     private int numEjes;
