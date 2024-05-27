@@ -78,7 +78,7 @@ public class Vehiculo {
 
 public void realizarMantenimiento(){
 
-    Scanner meli= new Scanner(System.in);
+    
     System.out.println("El vehiculo presenta algun desperfecto?");
 
    
