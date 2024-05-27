@@ -1,3 +1,8 @@
+import java.util.Scanner;
+
+
+
+
 public class Vehiculo {
 
     //Atrinutos
@@ -63,5 +68,42 @@ public class Vehiculo {
         System.out.println("Año: "+ año);
         System.out.println("Kilometraje: "+ kilometraje);
     }
+
+
+
+
+
+//Independiente.
+
+
+public void realizarMantenimiento(){
+
+    Scanner meli= new Scanner(System.in);
+    System.out.println("El vehiculo presenta algun desperfecto?");
+
+   
+
+   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
